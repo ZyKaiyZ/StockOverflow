@@ -1,0 +1,16 @@
+{
+    "name": "StockOverflow",
+    //"background_color": "#ffffff",
+    "color": "#ffffff",
+    "display": "fullscreen",
+    "start_url": "./",
+    "id": "/~s1093335/HW2/",
+    "purpose": "any",
+    "icons": [
+       {
+            "src": "assets/imgs/ios-icon-180x180.jpg",
+            "type": "image/jpg",
+            "sizes": "180x180"
+       }
+    ]
+}
